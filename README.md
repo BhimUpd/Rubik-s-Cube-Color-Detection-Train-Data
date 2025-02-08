@@ -11,12 +11,16 @@ This is a Java-based Android application developed using Android Studio and Open
 - Allows users to send the CSV file via Gmail with a single button click, where the file is pre-selected as an attachment.
 
 <p align="center">
-    <img src="AppPreview/1.png" width="150">
-    <img src="AppPreview/2.png" width="150">
-    <img src="AppPreview/3.png" width="150">
-    <img src="AppPreview/4.png" width="150">
-    <img src="AppPreview/5.png" width="150">
-    <img src="AppPreview/6.png" width="150">
+    <img src="AppPreview/1.png" width="300">
+    <img src="AppPreview/2.png" width="300">
+    <img src="AppPreview/3.png" width="300">
+
+</p>
+
+<p align="center">
+    <img src="AppPreview/4.png" width="300">
+    <img src="AppPreview/5.png" width="300">
+    <img src="AppPreview/6.png" width="300">
 </p>
 
 
