@@ -10,7 +10,7 @@ This is a Java-based Android application developed using Android Studio and Open
 - Simple interface to view selected data and delete all collected data.
 - Allows users to send the CSV file via Gmail with a single button click, where the file is pre-selected as an attachment.
 
-<img src="AppPreview/1" alt="App Screenshot" width="300">
+<img src="AppPreview/1.png" alt="App Screenshot" width="300">
 
 
 
